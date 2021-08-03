@@ -1,1 +1,1 @@
-# Youtube-Farming-Simulator
+This is a script for the game https://www.roblox.com/games/6859865958/WHEEL-YouTube-Simulator?refPageId=603a4e6e-163e-4569-9f26-05c54ca37de4 Im adding some things to it but it will look pretty nice later
